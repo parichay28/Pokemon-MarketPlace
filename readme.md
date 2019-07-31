@@ -41,20 +41,32 @@ npm run dev
 
 ## Screenshots
 
-1. Login/Signup Page
-![]()
+1. **Login/Signup Page**
 
-2. Home Page
-![]()
+<br />
 
-3. Account Pokemons
-![]()
+![](https://raw.githubusercontent.com/parichay101/Pokemon-MarketPlace/master/readme%20images/Login%20Page.png)
 
-4. Public Pokemons
-![]()
+2. **Home Page**
+
+<br />
+
+![](https://github.com/parichay101/Pokemon-MarketPlace/blob/master/readme%20images/Pokemon%20MarketPlace%20Homepage.png)
+
+3. **Account Pokemons**
+
+<br />
+
+![](https://raw.githubusercontent.com/parichay101/Pokemon-MarketPlace/master/readme%20images/Account%20Pokemons.png)
+
+4. **Public Pokemons**
+
+<br />
+
+![](https://raw.githubusercontent.com/parichay101/Pokemon-MarketPlace/master/readme%20images/Public%20Pokemons.png)
 
 
-## Built Using
+## **Built Using**
 
 1. [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 2. [Node.js](https://reactjs.org/) - JavaScript runtime built on V8.
