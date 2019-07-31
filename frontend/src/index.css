@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    margin: 10%;
+    font-size: 20px;
+}
+
+.pokemon-avatar-image-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokemon-avatar-image-background {
+    position: absolute;
+}
+
+.pokemon-avatar-image-pattern {
+    position: absolute;
+
+}
+
+.pokemon-avatar-image {
+    z-index: 1;
+}
+
+.logout-button {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+
+.account-pokemon-row-input {
+    width: 100px;
+    height: 20px;
+    margin-right: 15px;
+}

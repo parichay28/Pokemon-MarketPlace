@@ -1,0 +1,37 @@
+[
+    {
+        "type": "bgColor",
+        "values": [
+            "black",
+            "white",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "type": "pattern",
+        "values": [
+            "plain",
+            "striped",
+            "spotty",
+            "patchy"        ]
+    },
+    {
+        "type": "size",
+        "values": [
+            "small",
+            "medium",
+            "large",
+            "gigantic"
+        ]
+    },
+    {
+        "type": "build",
+        "values": [
+            "slender",
+            "stocky",
+            "sporty",
+            "skinny"
+        ]
+    }
+]
